@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "560876211281",
+    "firebase_url": "https://avocado-dev-8a303.firebaseio.com",
+    "project_id": "avocado-dev-8a303",
+    "storage_bucket": "avocado-dev-8a303.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:560876211281:android:1fe4c36eae44c948debc70",
+        "android_client_info": {
+          "package_name": "com.example.oneloop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "560876211281-3410nrn0s096fmiab4fil27k4p1lp29j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfE3dj9wUvph_8aRfa9SnFMd7HlBgde6Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "114660092169475039523",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
